@@ -27,13 +27,8 @@ function App() {
         <button onClick={onClick}>
           Click Me
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+        <p>Made by <a href='https://twitter.com/nishant_50'>IzNish</a></p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
